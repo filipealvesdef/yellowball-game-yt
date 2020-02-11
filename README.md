@@ -10,4 +10,4 @@ A game implemented for didactic purposes on a [YouTube tutorial series](https://
 Feel free to use it and share as you wish but it would be cool if you give me due credits :)
 
 ### Note
-This was implemented when I was graduating and this code is messy. I did not refactored it for consistency reeasons with the videos.
+This was implemented when I was graduating and this code is messy. I did not refactor it for being consistent with the videos.
